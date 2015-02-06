@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/yoooee/Grunt-Templates/issues"
   },
-  "homepage": "https://github.com/yoooee/Grunt-Templates"
+  "homepage": "https://github.com/yoooee/Grunt-Templates",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest"
+  }
 }
